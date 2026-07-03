@@ -13,10 +13,5 @@ Este é um projeto prático desenvolvido em Python no ambiente VS Code. O objeti
 * **Editor de Código:** VS Code
 * **Terminal:** Windows PowerShell
 
-## 🚀 Como Executar o Projeto
 
-1. **Pré-requisitos:** Certifique-se de ter o Python instalado na sua máquina.
-2. **Clonar o projeto:** Baixe o arquivo `assistente.py` para uma pasta de sua preferência.
-3. **Instalar a biblioteca da API:** Abra o terminal na pasta do projeto e execute o comando:
-   ```bash
    python -m pip install google-genai
